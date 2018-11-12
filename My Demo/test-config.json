@@ -1,0 +1,18 @@
+{
+    "localhost": false,
+    "Stage": "Devel",
+    "FDSAv2_stage": "Devel",
+    "FDSAv2_Override": -1,
+    "VMSUserID": "FDSQAR_C",
+    "SerialNumber": "random",
+    "CaccessCode": -1,
+    "TestEnvironment": "SGE",
+    "PrebuildName": "",
+    "SeleniumGridHub": "http://tellusgridb04.pc.factset.com:4444/wd/hub",
+    "Platform": "WINDOWS",
+    "SGBrowserName": "chrome",
+    "SGBrowserVersion": "65",
+    "WebStage": "Staging",
+    "HTMLReports": "Staging",
+    "JustifierProductID": "3673"
+}

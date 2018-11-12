@@ -1,0 +1,1082 @@
+{
+  "pa-document-default": {
+    "documentPath": "PA_DOCUMENTS:DEFAULT",
+    "browserTitle": "Portfolio Analysis 3.0 - Weights | Exposures [PA_DOCUMENTS:DEFAULT]"
+  },
+  "default-doc-old": {
+    "documentPath": "Client:default_doc_OLD",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:default_doc_OLD]"
+  },
+  "acct-override-doc": {
+    "documentPath": "Client:/Pa3/Accounts/Acct_Override_Doc",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:/pa3/accounts/Acct_Override_Doc]"
+  },
+  "default-doc-auto": {
+    "documentPath": "Client:default_doc_auto",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:default_doc_auto]"
+  },
+  "restore-def-doc": {
+    "documentPath": "Client:/Pa3/Accounts/Restore_Def_Doc",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:/pa3/accounts/Restore_Def_Doc]"
+  },
+  "audit-fi": {
+    "documentPath": "Client:/Pa3/Audit/AUDIT_FI",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:/pa3/audit/AUDIT_FI]"
+  },
+  "audit-level": {
+    "documentPath": "Client:;Pa3;Audit;AUDIT_LEVEL",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:/pa3/audit/AUDIT_LEVEL]"
+  },
+  "audit-date": {
+    "documentPath": "Client:;Pa3;Audit;AUDIT_DATE",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Attribution [Client:/pa3/audit/AUDIT_DATE]"
+  },
+  "audit-doc": {
+    "documentPath": "Client:/Pa3/Audit/AUDIT_DOC",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:/pa3/audit/AUDIT_DOC]"
+  },
+  "audit-statistics": {
+    "documentPath": "Client:/Pa3/Audit/AUDIT_STATISTICS",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:/pa3/audit/AUDIT_STATISTICS]"
+  },
+  "audit-pricing": {
+    "documentPath": "Client:;Pa3;Audit;AUDIT_PRICING",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:/pa3/audit/AUDIT_PRICING]"
+  },
+  "audit-security": {
+    "documentPath": "Client:;Pa3;Audit;AUDIT_SECURITY",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:/pa3/audit/AUDIT_SECURITY]"
+  },
+  "chart-lable-ri-col": {
+    "documentPath": "Client:/Pa3/Charts/CHART_LABLE_RI_COL",
+    "browserTitle": "Portfolio Analysis 3.0 - Weights | Exposure Report [Client:/pa3/charts/CHART_LABLE_RI_COL]"
+  },
+  "fixed-col-options": {
+    "documentPath": "Client:;Pa3;Charts;FIXED_COL_OPTIONS",
+    "browserTitle": "Portfolio Analysis 3.0 - Weights | Exposures [Client:/pa3/charts/FIXED_COL_OPTIONS]"
+  },
+  "chart-doc": {
+    "documentPath": "Client:/Pa3/Charts/CHART_DOC",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:/pa3/charts/CHART_DOC]"
+  },
+  "testingauo": {
+    "documentPath": "Client:/Pa3/Accounts/testingauo",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:/pa3/accounts/testingauo]"
+  },
+  "auto-conv-2": {
+    "documentPath": "Client:;Pa3;Universe;AUO_CONV_2",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:/pa3/universe/AUO_CONV_2]"
+  },
+  "auto-conv-sr": {
+    "documentPath": "Client:/Pa3/Universe/AUO_CONV_SR",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Contribution [Client:/pa3/universe/AUO_CONV_SR]"
+  },
+  "auo-conv-mc-1": {
+    "documentPath": "Client:/Pa3/Universe/AUO_CONV_MC_1",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:/pa3/universe/AUO_CONV_MC_1]"
+  },
+  "auo-gov-cash": {
+    "documentPath": "Client:/Pa3/Universe/AUO_GOV_CASH",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Contribution [Client:/pa3/universe/AUO_GOV_CASH]"
+  },
+  "auo-libor-map": {
+    "documentPath": "Client:/Pa3/Universe/AUO_LIBOR_MAP",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Duration [Client:/pa3/universe/AUO_LIBOR_MAP]"
+  },
+  "auto-conv-1": {
+    "documentPath": "Client:/Pa3/Universe/AUO_CONV_1",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:/pa3/universe/AUO_CONV_1]"
+  },
+  "auto-conv-oint": {
+    "documentPath": "Client:/Pa3/Universe/AUO_CONV_0INT",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Contribution [Client:/pa3/universe/AUO_CONV_0INT]"
+  },
+  "date-lagging": {
+    "documentPath": "Client:/Pa3/Dates/DATE_LAGGING",
+    "browserTitle": "Portfolio Analysis 3.0 - Weights | Weights [Client:/pa3/dates/DATE_LAGGING]"
+  },
+  "doc-options": {
+    "documentPath": "Client:;Pa3;Dates;DOC_OPTIONS",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:/pa3/dates/DOC_OPTIONS]"
+  },
+  "date-lagging-custom": {
+    "documentPath": "Client:;Pa3;Dates;DATE-LAGGING-CUSTOM",
+    "browserTitle": "Portfolio Analysis 3.0 - Weights | Weights [Client:/pa3/dates/DATE-LAGGING-CUSTOM]"
+  },
+  "date-lagging-jpy": {
+    "documentPath": "Client:/Pa3/Dates/Date_Lagging_JPY",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Contribution [Client:/pa3/dates/Date_Lagging_JPY]"
+  },
+  "a006": {
+    "documentPath": "Client:/Pa3/Risk/A006",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Append File [Client:/pa3/risk/A006]"
+  },
+  "accts-dialog-doc": {
+    "documentPath": "Client:/Pa3/Accounts/ACCTS_DIALOG_DOC",
+    "browserTitle": "Portfolio Analysis 3.0 - Uncategorized | Weights [Client:/pa3/accounts/ACCTS_DIALOG_DOC]"
+  },
+  "cache-latest": {
+    "documentPath": "Client:/Pa3/Automation/CACHE_LATEST",
+    "browserTitle": "Portfolio Analysis 3.0 - Caching Test | Cache_Latest [Client:/pa3/automation/CACHE_LATEST]"
+  },
+  "fx-defaults": {
+    "documentPath": "Client:/Pa3/Accounts/FX_DEFAULTS",
+    "browserTitle": "Portfolio Analysis 3.0 - Weights | Exposures [Client:/pa3/accounts/FX_DEFAULTS]"
+  },
+  "cache-doc": {
+    "documentPath": "Client:/Pa3/Automation/CACHE_DOC",
+    "browserTitle": "Portfolio Analysis 3.0 - Caching Test | Cache Report 1 [Client:/pa3/automation/CACHE_DOC]"
+  },
+  "multi-port-toggle": {
+    "documentPath": "Client:/Pa3/Accounts/MULTI_PORT_TOGGLE",
+    "browserTitle": "Portfolio Analysis 3.0 - Test | Weights [Client:/pa3/accounts/MULTI_PORT_TOGGLE]"
+  },
+  "cache-doc2": {
+    "documentPath": "Client:/Pa3/Automation/CACHE_DOC2",
+    "browserTitle": "Portfolio Analysis 3.0 - Caching Test | Cache Report 4 [Client:/pa3/automation/CACHE_DOC2]"
+  },
+  "mpt-doc": {
+    "documentPath": "Client:;Pa3;Accounts;MPT_DOC",
+    "browserTitle": "Portfolio Analysis 3.0 - Test | Weights [Client:/pa3/accounts/MPT_DOC]"
+  },
+  "accts-to-options": {
+    "documentPath": "Client:/Pa3/Accounts/ACCTS_TO_OPTIONS",
+    "browserTitle": "Portfolio Analysis 3.0 - Uncategorized | Weights [Client:/pa3/accounts/ACCTS_TO_OPTIONS]"
+  },
+  "price-update-curr-change": {
+    "documentPath": "Client:/Pa3/Accounts/PRICE-UPDATE-CURR-CHANGE",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:/pa3/accounts/PRICE-UPDATE-CURR-CHANGE]"
+  },
+  "term-date-4": {
+    "documentPath": "Client:/Pa3/Dates/TERM_DATE_4",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Contribution [Client:/pa3/dates/TERM_DATE_4]"
+  },
+  "style-benchmark": {
+    "documentPath": "Client:;Pa3;Accounts;Style_Benchmark",
+    "browserTitle": "Portfolio Analysis 3.0 - Weights | Exposures [Client:/pa3/accounts/Style_Benchmark]"
+  },
+  "term-date-5": {
+    "documentPath": "Client:/Pa3/Dates/TERM_DATE_5",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Contribution [Client:/pa3/dates/TERM_DATE_5]"
+  },
+  "cache-currency": {
+    "documentPath": "Client:;Pa3;Automation;Cache_currency",
+    "browserTitle": "Portfolio Analysis 3.0 - Weights | Performance Overview [Client:/pa3/automation/Cache_currency]"
+  },
+  "term-date-6": {
+    "documentPath": "Client:/Pa3/Dates/TERM_DATE_6",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Contribution [Client:/pa3/dates/TERM_DATE_6]"
+  },
+  "settings-cache": {
+    "documentPath": "Client:/Pa3/General/SETTINGS_CACHE",
+    "browserTitle": "Portfolio Analysis 3.0 - Caching Test | Cache Report 1 [Client:/pa3/general/SETTINGS_CACHE]"
+  },
+  "auto-doc-fi": {
+    "documentPath": "Client:/Pa3/Automation/auto_doc_fi",
+    "browserTitle": "Portfolio Analysis 3.0 - Uncategorized | Weights [Client:/pa3/automation/auto_doc_fi]"
+  },
+  "pa3-fi-anlts-ovrds": {
+    "documentPath": "Client:/Pa3/Fixed_income/PA3_FI_ANLTS_OVRDS",
+    "browserTitle": "Portfolio Analysis 3.0 - Attribution | 3 Factor Brinson Atttribution [Client:/pa3/fixed_income/PA3_FI_ANLTS_OVRDS]"
+  },
+  "auto-new": {
+    "documentPath": "Client:/Pa3/AUTO_NEW",
+    "browserTitle": "Portfolio Analysis 3.0 - Uncategorized | Weights [Client:/pa3/AUTO_NEW]"
+  },
+  "pa3-fi-override-ex2": {
+    "documentPath": "Client:/Pa3/Fixed_income/PA3_FI_OVERRIDE_EX2",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:/pa3/fixed_income/PA3_FI_OVERRIDE_EX2]"
+  },
+  "qa-analytics-bofa-merrill": {
+    "documentPath": "Client:/Pa3/Pa3_docs/QA_Analytics_BofA_Merrill",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:/pa3/pa3_docs/QA_Analytics_BofA_Merrill]"
+  },
+  "fi-cr-dec-pt": {
+    "documentPath": "Client:/Pa3/Fixed_income/FI_CR_DEC_PT",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Characteristics - Summary [Client:/pa3/fixed_income/FI_CR_DEC_PT]"
+  },
+  "georev-ca": {
+    "documentPath": "Client:/Pa3/Georev/GeoRev_CA",
+    "browserTitle": "Portfolio Analysis 3.0 - Detailed Reports | Composite Assets [Client:/pa3/georev/GeoRev_CA]"
+  },
+  "georev-country": {
+    "documentPath": "Client:/Pa3/Georev/GeoRev_Country",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Contribution [Client:/pa3/georev/GeoRev_Country]"
+  },
+  "georev-exclusions": {
+    "documentPath": "Client:/Pa3/Georev/GEOREV_EXCLUSIONS",
+    "browserTitle": "Portfolio Analysis 3.0 - Detailed Reports | Weights [Client:/pa3/georev/GEOREV_EXCLUSIONS]"
+  },
+  "issuer": {
+    "documentPath": "Client:/Pa3/Georev/Issuer",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:/pa3/georev/Issuer]"
+  },
+  "lionshares-georev": {
+    "documentPath": "Client:/Pa3/Georev/LIONSHARES_GEOREV",
+    "browserTitle": "Portfolio Analysis 3.0 - Detailed Reports | Weights [Client:/pa3/georev/LIONSHARES_GEOREV]"
+  },
+  "weight-issue": {
+    "documentPath": "Client:;Pa3;Georev;Weight_Issue",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Contribution [Client:/pa3/georev/Weight_Issue]"
+  },
+  "lhp-blasting": {
+    "documentPath": "Client:lhp_blasting",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:lhp_blasting]"
+  },
+  "lhp-report": {
+    "documentPath": "Client:/Pa3/LHP-REPORT",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:/pa3/LHP-REPORT]"
+  },
+  "report": {
+    "documentPath": "Client:;Pa3;REPORT",
+    "browserTitle": "Portfolio Analysis 3.0 - Detailed Reports | Contribution [Client:/pa3/REPORT]"
+  },
+  "fi-pr-anl-src": {
+    "documentPath": "Client:/Pa3/Fixed_income/FI_PR_ANL_SRC",
+    "browserTitle": "Portfolio Analysis 3.0 - Attribution | Attribution [Client:/pa3/fixed_income/FI_PR_ANL_SRC]"
+  },
+  "full-refresh": {
+    "documentPath": "Client:/Pa3/General/full-refresh",
+    "browserTitle": "Portfolio Analysis 3.0 - Uncategorized | Weights [Client:/pa3/general/full-refresh]"
+  },
+  "date-gap": {
+    "documentPath": "Client:;Pa3;Dates;date_gap",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:/pa3/dates/date_gap]"
+  },
+  "lot-lev-det-3": {
+    "documentPath": "Client:;Pa3;Lot_detail;LOT_LEV_DET_3",
+    "browserTitle": "Portfolio Analysis 3.0 - Performance | Book Calcs [Client:/pa3/lot_detail/LOT_LEV_DET_3]"
+  },
+  "mac-fwd-exposure": {
+    "documentPath": "Client:;Pa3;Risk;MAC_FWD_EXPOSURE",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:/pa3/risk/MAC_FWD_EXPOSURE]"
+  },
+  "duplicate-security-multi-port": {
+    "documentPath": "Client:;Pa3;Accounts;DUPLICATE_SECURITY_MULTI_PORT",
+    "browserTitle": "Portfolio Analysis 3.0 - Weights | Contribution [Client:/pa3/accounts/DUPLICATE_SECURITY_MULTI_PORT]"
+  },
+  "multi-tile-right-click": {
+    "documentPath": "Client:multi_tile_right_click",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:multi_tile_right_click]"
+  },
+  "mv-currency": {
+    "documentPath": "Client:;Pa3;Prices;MV_Currency",
+    "browserTitle": "Portfolio Analysis 3.0 - Weights | Exposures Overview [Client:/pa3/prices/MV_Currency]"
+  },
+  "fi-prj-cash-flow-dates": {
+    "documentPath": "Client:/Pa3/Fixed_income/FI_PRJ_CASH_FLOW_DATES",
+    "browserTitle": "Portfolio Analysis 3.0 - Uncategorized | Weights [Client:/pa3/fixed_income/FI_PRJ_CASH_FLOW_DATES]"
+  },
+  "fi-cash-flow-default": {
+    "documentPath": "Client:/Pa3/Fixed_income/FI_CASH_FLOW_DEFAULT",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Cash Flows [Client:/pa3/fixed_income/FI_CASH_FLOW_DEFAULT]"
+  },
+  "onetile-refresh": {
+    "documentPath": "Client:;Pa3;Real_time;OneTile_Refresh",
+    "browserTitle": "Portfolio Analysis 3.0 - 4 Tiles | 2 Grids, 2 Charts (Equal) [Client:/pa3/real_time/OneTile_Refresh]"
+  },
+  "pa3-fi-price-effect": {
+    "documentPath": "Client:/Pa3/PA3_FI_PRICE_EFFECT",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Just Price Effect - DV [Client:/pa3/PA3_FI_PRICE_EFFECT]"
+  },
+  "right-click-test": {
+    "documentPath": "Client:/Pa3/Right_click/RIGHT_CLICK_TEST",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Asset Type Grouping [Client:/pa3/right_click/RIGHT_CLICK_TEST]"
+  },
+  "transpose-characteristics": {
+    "documentPath": "Client:/Pa3/Columns/TRANSPOSE_CHARACTERISTICS",
+    "browserTitle": "Portfolio Analysis 3.0 - Uncategorized | Characteristics [Client:/pa3/columns/TRANSPOSE_CHARACTERISTICS]"
+  },
+  "chars-transpose": {
+    "documentPath": "Client:/Pa3/Columns/CHARS_TRANSPOSE",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Characteristics - Summary [Client:/pa3/columns/CHARS_TRANSPOSE]"
+  },
+  "transpose-performance": {
+    "documentPath": "Client:;Pa3;Columns;TRANSPOSE_PERFORMANCE",
+    "browserTitle": "Portfolio Analysis 3.0 - Untitled | Performance [Client:/pa3/columns/TRANSPOSE_PERFORMANCE]"
+  },
+  "transpose-weights": {
+    "documentPath": "Client:/Pa3/Columns/TRANSPOSE_WEIGHTS",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:/pa3/columns/TRANSPOSE_WEIGHTS]"
+  },
+  "smart-cache-1": {
+    "documentPath": "Client:/Pa3/Automation/SMART_CACHE_1",
+    "browserTitle": "Portfolio Analysis 3.0 - Weights | Top Positions [Client:/pa3/automation/SMART_CACHE_1]"
+  },
+  "smart-cache-2": {
+    "documentPath": "Client:/Pa3/Automation/SMART_CACHE_2",
+    "browserTitle": "Portfolio Analysis 3.0 - Weights | Performance Overview [Client:/pa3/automation/SMART_CACHE_2]"
+  },
+  "refresh-qa-test": {
+    "documentPath": "Client:REFRESH_QA_TEST",
+    "browserTitle": "Portfolio Analysis 3.0 - Weights | Exposures Overview [Client:REFRESH_QA_TEST]"
+  },
+  "tbr-typeahead-lookup": {
+    "documentPath": "Client:/Pa3/Accounts/TBR_TYPEAHEAD_LOOKUP",
+    "browserTitle": "Portfolio Analysis 3.0 - Performance | Contribution Detail [Client:/pa3/accounts/TBR_TYPEAHEAD_LOOKUP]"
+  },
+  "qa-tax-rate": {
+    "documentPath": "Client:/Pa3/Tru/QA_TAX_RATE",
+    "browserTitle": "Portfolio Analysis 3.0 - Performance | Contribution Detail [Client:/pa3/tru/QA_TAX_RATE]"
+  },
+  "fi-anlyt-ovr-audit": {
+    "documentPath": "Client:;Pa3;Audit;FI_ANLYT_OVR_AUDIT",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:/pa3/audit/FI_ANLYT_OVR_AUDIT]"
+  },
+  "audit-hlgrp-as": {
+    "documentPath": "Client:/Pa3/Audit/AUDIT_HLGRP_AS",
+    "browserTitle": "Portfolio Analysis 3.0 - Weights | Active Share [Client:/pa3/audit/AUDIT_HLGRP_AS]"
+  },
+  "audit-perf": {
+    "documentPath": "Client:;Pa3;Audit;AUDIT_PERF",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:/pa3/audit/AUDIT_PERF]"
+  },
+  "audit-fi-attrib": {
+    "documentPath": "Client:/Pa3;Audit/AUDIT_FI_ATTRIB",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Spread Effect_Contribution [Client:/pa3/audit/AUDIT_FI_ATTRIB]"
+  },
+  "audit-tbr": {
+    "documentPath": "Client:;Pa3;Audit;AUDIT_TBR",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Characteristics - Summary [Client:/pa3/audit/AUDIT_TBR]"
+  },
+  "dates-multitile": {
+    "documentPath": "Client:;Pa3;Dates;Dates_Multitile",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:/pa3/dates/Dates_Multitile]"
+  },
+  "dates-blasting-snapfreq": {
+    "documentPath": "Client:/Pa3/Dates/DATES_BLASTING_SNAPFREQ",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:/pa3/dates/DATES_BLASTING_SNAPFREQ]"
+  },
+  "default-doc-dates": {
+    "documentPath": "Client:default_doc_dates",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:default_doc_dates]"
+  },
+  "inception-date": {
+    "documentPath": "Client:;Pa3;Dates;INCEPTION_DATE",
+    "browserTitle": "Portfolio Analysis 3.0 - Weights | Exposures Overview [Client:/pa3/dates/INCEPTION_DATE]"
+  },
+  "risk-exclusions-ui": {
+    "documentPath": "Client:;Pa3;Risk;Risk_Exclusions_UI",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Risk Exposures [Client:/pa3/risk/Risk_Exclusions_UI]"
+  },
+  "exclusions-test": {
+    "documentPath": "Client:/Pa3/Grouping/Exclusions_test",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:/pa3/grouping/Exclusions_test]"
+  },
+  "custom-lookup": {
+    "documentPath": "Client:/Pa3/Georev/CUSTOM_LOOKUP",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:/pa3/georev/CUSTOM_LOOKUP]"
+  },
+  "matrix-grouping": {
+    "documentPath": "Client:/Pa3/Grouping/MATRIX-GROUPING",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:/pa3/grouping/MATRIX-GROUPING]"
+  },
+  "sort-grpg-doc": {
+    "documentPath": "Client:/Pa3/Grouping/sort_grpg_doc",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:/pa3/grouping/sort_grpg_doc]"
+  },
+  "custom-stress-test": {
+    "documentPath": "Client:;Pa3;Risk;CUSTOM_STRESS_TEST",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:/pa3/risk/CUSTOM_STRESS_TEST]"
+  },
+  "custom-mac": {
+    "documentPath": "Client:;Pa3;Risk;CUSTOM_MAC",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:/pa3/risk/CUSTOM_MAC]"
+  },
+  "identifier-stress-test": {
+    "documentPath": "Client:/Pa3/Risk/IDENTIFIER_STRESS_TEST",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:/pa3/risk/IDENTIFIER_STRESS_TEST]"
+  },
+  "securities-not-covered": {
+    "documentPath": "Client:/Pa3/Risk/SECURITIES_NOT_COVERED_1",
+    "browserTitle": "Portfolio Analysis 3.0 - Risk | Risk Asset Detail [Client:/pa3/risk/SECURITIES_NOT_COVERED_1]"
+  },
+  "extreme-eve-stress-test": {
+    "documentPath": "Client:/Pa3/Risk/EXTREME_EVE_STRESS_TEST",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:/pa3/risk/EXTREME_EVE_STRESS_TEST]"
+  },
+  "risk-acct-restore": {
+    "documentPath": "Client:;Pa3;Risk;RISK_ACCT_RESTORE",
+    "browserTitle": "Portfolio Analysis 3.0 - Risk | Risk Asset Detail [Client:/pa3/risk/RISK_ACCT_RESTORE]"
+  },
+  "barragem-ccy-adj": {
+    "documentPath": "Client:/Pa3/Risk/BARRAGEM-CCY-ADJ",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Risk [Client:/pa3/risk/BARRAGEM-CCY-ADJ]"
+  },
+  "mm-mlaw-test-case": {
+    "documentPath": "Client:;Pa3;Risk;MM_MLAW_Test_Case",
+    "browserTitle": "Portfolio Analysis 3.0 - Weights | Exposure Report [Client:/pa3/risk/MM_MLAW_Test_Case]"
+  },
+  "pa3-factor-high-low-grouping": {
+    "documentPath": "Client:/Pa3/Risk/PA3_factor_high_low_grouping",
+    "browserTitle": "Portfolio Analysis 3.0 - Risk | Exposures [Client:/pa3/risk/PA3_factor_high_low_grouping]"
+  },
+  "factor-group-show-hide": {
+    "documentPath": "Client:/Pa3/Risk/FACTOR_GROUP_SHOW_HIDE",
+    "browserTitle": "Portfolio Analysis 3.0 - Weights | Risk Summary [Client:/pa3/risk/FACTOR_GROUP_SHOW_HIDE]"
+  },
+  "pa3-stress-test": {
+    "documentPath": "Client:;Pa3;Risk;PA3_Stress_Test",
+    "browserTitle": "Portfolio Analysis 3.0 - Weights | Exposures Overview [Client:/pa3/risk/PA3_Stress_Test]"
+  },
+  "mac-simulation-stress": {
+    "documentPath": "Client:;Pa3;Risk;MAC_SIMULATION_STRESS",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:/pa3/risk/MAC_SIMULATION_STRESS]"
+  },
+  "st-high-low": {
+    "documentPath": "Client:/Pa3/Risk/ST_HIGH_LOW",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:/pa3/risk/ST_HIGH_LOW]"
+  },
+  "gem2l-update": {
+    "documentPath": "Client:/Pa3/Risk/GEM2L_UPDATE",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:/pa3/risk/GEM2L_UPDATE]"
+  },
+  "unevenly-layered-factor-group": {
+    "documentPath": "Client:;Pa3;Risk;Unevenly_Layered_Factor_Group",
+    "browserTitle": "Portfolio Analysis 3.0 - Weights | Risk Summary [Client:/pa3/risk/Unevenly_Layered_Factor_Group]"
+  },
+  "fi-scenario-analysis": {
+    "documentPath": "Client:/Pa3/Fixed_income/FI_SCENARIO_ANALYSIS",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Valuation [Client:/pa3/fixed_income/FI_SCENARIO_ANALYSIS]"
+  },
+  "leverage-adj-etf": {
+    "documentPath": "Client:;Pa3;Universe;LEVERAGE_ADJ_ETF",
+    "browserTitle": "Portfolio Analysis 3.0 - Uncategorized | Weights(Asset Type) [Client:/pa3/universe/LEVERAGE_ADJ_ETF]"
+  },
+  "lot-lev-det-2": {
+    "documentPath": "Client:;Pa3;Lot_detail;LOT_LEV_DET_2",
+    "browserTitle": "Portfolio Analysis 3.0 - Performance | Returns [Client:/pa3/lot_detail/LOT_LEV_DET_2]"
+  },
+  "uni-blasting": {
+    "documentPath": "Client:;Pa3;Universe;Uni_Blasting",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Attribution [Client:/pa3/universe/Uni_Blasting]"
+  },
+  "uni-blasting-2": {
+    "documentPath": "Client:/Pa3/Universe/Uni_Blasting_2",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights(Asset Type) [Client:/pa3/universe/Uni_Blasting_2]"
+  },
+  "georev-speed": {
+    "documentPath": "Client:/Pa3/Georev/GeoRev_Speed",
+    "browserTitle": "Portfolio Analysis 3.0 - Detailed Reports | Contribution [Client:/pa3/georev/GeoRev_Speed]"
+  },
+  "auo2": {
+    "documentPath": "Client:/Pa3/Universe/AUO2",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Contribution [Client:/pa3/universe/AUO2]"
+  },
+  "ca-unknown-symbol": {
+    "documentPath": "Client:/Pa3/Universe/CA_Unknown_Symbol",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:/pa3/universe/CA_Unknown_Symbol]"
+  },
+  "new-reference-testing": {
+    "documentPath": "Client:/Pa3/Columns/New_Reference_Testing",
+    "browserTitle": "Portfolio Analysis 3.0 - Column Testing | New Column Test [Client:/pa3/columns/New_Reference_Testing]"
+  },
+  "adv-col-options": {
+    "documentPath": "Client:/Pa3/Columns/Adv_Col_Options",
+    "browserTitle": "Portfolio Analysis 3.0 - Uncategorized | Attribution [Client:/pa3/columns/Adv_Col_Options]"
+  },
+  "columns-digits": {
+    "documentPath": "Client:/Pa3/Columns/COLUMNS-DIGITS",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Performance [Client:/pa3/columns/COLUMNS-DIGITS]"
+  },
+  "pa3-url-test-doc": {
+    "documentPath": "Client:/Pa3/General/PA3_URL_TEST_DOC",
+    "browserTitle": "Portfolio Analysis 3.0 - Weights | Exposures Overview [Client:/pa3/general/PA3_URL_TEST_DOC]"
+  },
+  "pa3-fi-balanced-attrib-effts": {
+    "documentPath": "Client:/Pa3/Fixed_income/PA3-FI_BALANCED_ATTRIB_EFFTS",
+    "browserTitle": "Portfolio Analysis 3.0 - Detailed Reports | Attribution [Client:/pa3/fixed_income/PA3-FI_BALANCED_ATTRIB_EFFTS]"
+  },
+  "bime-refresh-error": {
+    "documentPath": "Client:/Pa3/Risk/BIME_REFRESH_ERROR",
+    "browserTitle": "Portfolio Analysis 3.0 - Weights | Risk Summary [Client:/pa3/risk/BIME_REFRESH_ERROR]"
+  },
+  "char-display-bmrk": {
+    "documentPath": "Client:/Pa3/Columns/char-display-bmrk",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:/pa3/columns/char-display-bmrk]"
+  },
+  "symbol-name": {
+    "documentPath": "Client:/Pa3/Columns/symbol_name",
+    "browserTitle": "Portfolio Analysis 3.0 - Column Testing | New Column Test [Client:/pa3/columns/symbol_name]"
+  },
+  "testqa2": {
+    "documentPath": "Client:testqa2",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:testqa2]"
+  },
+  "test-qa": {
+    "documentPath": "Client:test qa",
+    "browserTitle": "Portfolio Analysis 3.0 - Uncategorized | Weights [Client:test qa]"
+  },
+  "conditional-formatting": {
+    "documentPath": "Client:/Pa3/Formatting/conditional-formatting",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Sector Weights [Client:/pa3/formatting/conditional-formatting]"
+  },
+  "cond-frmtg-heat-map": {
+    "documentPath": "Client:/Pa3/Formatting/COND-FRMTG-HEAT-MAP",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Sector Weights [Client:/pa3/formatting/COND-FRMTG-HEAT-MAP]"
+  },
+  "da-columns": {
+    "documentPath": "Client:/Pa3/Columns/DA_COLUMNS",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Passive Weighted + Passive Purchase [Client:/pa3/columns/DA_COLUMNS]"
+  },
+  "lot-lev-det-1": {
+    "documentPath": "Client:/Pa3/Lot_detail/LOT_LEV_DET_1",
+    "browserTitle": "Portfolio Analysis 3.0 - Performance | Ungrouped [Client:/pa3/lot_detail/LOT_LEV_DET_1]"
+  },
+  "lot-lev-det-values": {
+    "documentPath": "Client:/Pa3/Lot_detail/LOT_LEV_DET_VALUES",
+    "browserTitle": "Portfolio Analysis 3.0 - Performance | Ungrouped [Client:/pa3/lot_detail/LOT_LEV_DET_VALUES]"
+  },
+  "return-transfer": {
+    "documentPath": "Client:/Pa3/Columns/RETURN_TRANSFER",
+    "browserTitle": "Portfolio Analysis 3.0 - Performance System | All Inputs [Client:/pa3/columns/RETURN_TRANSFER]"
+  },
+  "pa3-fi-returns-balanced-attrib-effts": {
+    "documentPath": "Client:/Pa3/Fixed_income/PA3-FI_RETURNS_BALANCED_ATTRIB_EFFTS",
+    "browserTitle": "Portfolio Analysis 3.0 - Detailed Reports | Attribution [Client:/pa3/fixed_income/PA3-FI_RETURNS_BALANCED_ATTRIB_EFFTS]"
+  },
+  "pa3-fi-returns-perf-addtl-attrib-effts": {
+    "documentPath": "Client:/Pa3/Fixed_income/PA3-FI_RETURNS_PERF_ADDTL_ATTRIB_EFFTS",
+    "browserTitle": "Portfolio Analysis 3.0 - Detailed Reports | Attribution [Client:/pa3/fixed_income/PA3-FI_RETURNS_PERF_ADDTL_ATTRIB_EFFTS]"
+  },
+  "pa3-fi-returns-perf-shape-effts": {
+    "documentPath": "Client:/Pa3/Fixed_income/PA3-FI_RETURNS_PERF_SHAPE_EFFTS",
+    "browserTitle": "Portfolio Analysis 3.0 - Detailed Reports | Attribution [Client:/pa3/fixed_income/PA3-FI_RETURNS_PERF_SHAPE_EFFTS]"
+  },
+  "pa3-fi-returns-perf-vol-effts": {
+    "documentPath": "Client:/Pa3/Fixed_income/PA3-FI_RETURNS_PERF_VOL_EFFTS",
+    "browserTitle": "Portfolio Analysis 3.0 - Detailed Reports | Attribution [Client:/pa3/fixed_income/PA3-FI_RETURNS_PERF_VOL_EFFTS]"
+  },
+  "pa3-fiperf-addtl-attrib-effts": {
+    "documentPath": "Client:/Pa3/Fixed_income/PA3-FIPERF_ADDTL_ATTRIB_EFFTS",
+    "browserTitle": "Portfolio Analysis 3.0 - Detailed Reports | Attribution [Client:/pa3/fixed_income/PA3-FIPERF_ADDTL_ATTRIB_EFFTS]"
+  },
+  "sort-col-doc": {
+    "documentPath": "Client:/Pa3/Columns/sort_col_doc",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:/pa3/columns/sort_col_doc]"
+  },
+  "shock-gold-level": {
+    "documentPath": "Client:/Pa3/Risk/SHOCK_GOLD_LEVEL",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:/pa3/risk/SHOCK_GOLD_LEVEL]"
+  },
+  "default": {
+    "documentPath": "FactSet:Default",
+    "browserTitle": "Portfolio Analysis 3.0 - Weights | Exposures [PA_DOCUMENTS:Default]"
+  },
+  "audit-off-dt-range": {
+    "documentPath": "Client:/Pa3/Audit/AUDIT_OFF_DT_RANGE",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:/pa3/audit/AUDIT_OFF_DT_RANGE]"
+  },
+  "full-refresh-acct-in-plm": {
+    "documentPath": "Client:/Pa3/Full_refresh/Full Refresh- ACCT in PLM",
+    "browserTitle": "Portfolio Analysis 3.0 - Weights | ACCT Properties in PLM- Default benchmark [Client:/pa3/full_refresh/Full Refresh- ACCT in PLM]"
+  },
+  "fido-regression-test": {
+    "documentPath": "Super_client:/Pa3/FIDO_Regression test",
+    "browserTitle": "Portfolio Analysis 3.0 - Exposures Reports | Industry Exposure (GICS) [Super_client:/pa3/FIDO_Regression test]"
+  },
+  "expand-col-level": {
+    "documentPath": "Client:expand_col_level",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:expand_col_level]"
+  },
+  "fallback-fds-div": {
+    "documentPath": "Client:/Pa3/Prices/Fallback_FDS_Div",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Contribution [Client:/pa3/prices/Fallback_FDS_Div]"
+  },
+  "bh-bm-tbr": {
+    "documentPath": "Client:;Pa3;Accounts;bh_bm_tbr",
+    "browserTitle": "Portfolio Analysis 3.0 - Performance | Contribution Detail [Client:/pa3/accounts/bh_bm_tbr]"
+  },
+  "split-long-short": {
+    "documentPath": "Client:;Pa3;Accounts;split_long_short",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:/pa3/accounts/split_long_short]"
+  },
+  "historical-simulation": {
+    "documentPath": "Client:/Pa3/Risk/historical_simulation",
+    "browserTitle": "Portfolio Analysis 3.0 - Weights | Exposure Report [Client:/pa3/risk/historical_simulation]"
+  },
+  "inception-2": {
+    "documentPath": "Client:/Pa3/Dates/INCEPTION_2",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:/pa3/dates/INCEPTION_2]"
+  },
+  "auo-conv-mc-2": {
+    "documentPath": "Client:/Pa3/Universe/AUO_CONV_MC_2",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:/pa3/universe/AUO_CONV_MC_2]"
+  },
+  "auo-conv-uid": {
+    "documentPath": "Client:/Pa3/Universe/AUO_CONV_UID",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Contribution [Client:/pa3/universe/AUO_CONV_UID]"
+  },
+  "refresh-test": {
+    "documentPath": "Client:/Pa3/Universe/Refresh_Test",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Contribution [Client:/pa3/universe/Refresh_Test]"
+  },
+  "ccid-col": {
+    "documentPath": "Client:;Pa3;Columns;CCID_Col",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Sector Weights - 3 Levels [Client:/pa3/columns/CCID_Col]"
+  },
+  "sec-name-def": {
+    "documentPath": "Client:/Pa3/sec_name_def",
+    "browserTitle": "Portfolio Analysis 3.0 - Weights | Top Positions [Client:/pa3/sec_name_def]"
+  },
+  "factor-grouping-broken-format": {
+    "documentPath": "Client:/Pa3/Risk/Factor_Grouping_Broken_Format",
+    "browserTitle": "Portfolio Analysis 3.0 - Risk | Risk Exposures [Client:/pa3/risk/Factor_Grouping_Broken_Format]"
+  },
+  "mp-test": {
+    "documentPath": "Client:/Pa3/MP_TEST",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:/pa3/MP_TEST]"
+  },
+  "cols-find": {
+    "documentPath": "Client:/Pa3/Columns/cols-find",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:/pa3/columns/cols-find]"
+  },
+  "mp-fix": {
+    "documentPath": "Client:MP_FIx",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:MP_FIx]"
+  },
+  "standalone-risk-group-level": {
+    "documentPath": "Client:/Pa3/Risk/Standalone_Risk_Group_Level",
+    "browserTitle": "Portfolio Analysis 3.0 - Risk | Risk Summary [Client:/pa3/risk/Standalone_Risk_Group_Level]"
+  },
+  "select-deselect-default-risk-model": {
+    "documentPath": "Client:/Pa3/Risk/Select_Deselect_Default_Risk_Model",
+    "browserTitle": "Portfolio Analysis 3.0 - Risk | Risk Summary [Client:/pa3/risk/Select_Deselect_Default_Risk_Model]"
+  },
+  "port-description": {
+    "documentPath": "Client:;Pa3;General;Port_Description",
+    "browserTitle": "Portfolio Analysis 3.0 - Weights | Exposures [Client:/pa3/general/Port_Description]"
+  },
+  "transpose-stats": {
+    "documentPath": "Client:/Pa3/Columns/Transpose_stats",
+    "browserTitle": "Portfolio Analysis 3.0 - Weights | Exposures [Client:/pa3/columns/Transpose_stats]"
+  },
+  "hsbc-unknown": {
+    "documentPath": "Client:/Pa3/HSBC_UNKNOWN",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Contribution [Client:/pa3/HSBC_UNKNOWN]"
+  },
+  "fds-fallback": {
+    "documentPath": "Client:;Pa3;Prices;FDS_FALLBACK",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Contribution [Client:/pa3/prices/FDS_FALLBACK]"
+  },
+  "dates-blasting-charts": {
+    "documentPath": "Client:;Pa3;Dates;DATES_BLAST_CHARTS",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:/pa3/dates/DATES_BLAST_CHARTS]"
+  },
+  "invalid-date": {
+    "documentPath": "Client:;Pa3;Dates;INVALID_DATE",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Contribution [Client:/pa3/dates/INVALID_DATE]"
+  },
+  "thai-alien-test-v2": {
+    "documentPath": "Client:;Pa3;Prices;Thai alien test v2",
+    "browserTitle": "Portfolio Analysis 3.0 - Weights | Thai Alien Test [Client:/pa3/prices/Thai alien test v2]"
+  },
+  "stu-fi-cusip": {
+    "documentPath": "Client:;Pa3;Trade_solver;STU_FI_CUSIP",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:/pa3/trade_solver/STU_FI_CUSIP]"
+  },
+  "min-max": {
+    "documentPath": "Client:/Pa3/Trade_solver/MIN_MAX",
+    "browserTitle": "Portfolio Analysis 3.0 - Overview Reports | Exposures Overview [Client:/pa3/trade_solver/MIN_MAX]"
+  },
+  "solver-general": {
+    "documentPath": "Client:;Pa3;Trade_solver;SOLVER-GENERAL",
+    "browserTitle": "Portfolio Analysis 3.0 - Overview Reports | Exposures Overview [Client:/pa3/trade_solver/SOLVER-GENERAL]"
+  },
+  "benchmark-portfolio": {
+    "documentPath": "Client:/Pa3;Trade_solver;Benchmark_Portfolio",
+    "browserTitle": "Portfolio Analysis 3.0 - Overview Reports | Exposures Overview [Client:/pa3/trade_solver/Benchmark_Portfolio]"
+  },
+  "stu-composite-asset-expanded": {
+    "documentPath": "Client:/Pa3;Trade_solver;STU_Composite_Asset_Expanded",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Pre & Post Trade [Client:/pa3/trade_solver/STU_Composite_Asset_Expanded]"
+  },
+  "stu-composite-cash": {
+    "documentPath": "Client:/Pa3;Trade_solver;STU_Composite_Cash",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Pre & Post Trade [Client:/pa3/trade_solver/STU_Composite_Cash]"
+  },
+  "trading-in-contribution": {
+    "documentPath": "Client:;Pa3;Trade_solver;Trading in Contribution",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:/pa3/trade_solver/Trading in Contribution]"
+  },
+  "stu-editor-repopulate": {
+    "documentPath": "Client:/Pa3;Trade_solver;STU_EDITOR_REPOPULATE",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Pre & Post Trade [Client:/pa3/trade_solver/STU_EDITOR_REPOPULATE]"
+  },
+  "stu-historical-attribution": {
+    "documentPath": "Client:/Pa3;Trade_solver;STU_Historical_Attribution",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Pre & Post Trade [Client:/pa3/trade_solver/STU_Historical_Attribution]"
+  },
+  "stu-liquidate": {
+    "documentPath": "Client:;Pa3;Trade_solver;STU_LIQUIDATE",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | All Standard Calcs [Client:/pa3/trade_solver/STU_LIQUIDATE]"
+  },
+  "stu-long-short": {
+    "documentPath": "Client:/Pa3;Trade_solver;STU_Long_Short",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Pre & Post Trade [Client:/pa3/trade_solver/STU_Long_Short]"
+  },
+  "stu-fixed-income-trade-simulation-single-port": {
+    "documentPath": "Client:;Pa3;Trade_solver;STU_Fixed Income - Trade Simulation - Single Port",
+    "browserTitle": "Portfolio Analysis 3.0 - Fundamental Risk | Composition [Client:/pa3/trade_solver/STU_Fixed Income - Trade Simulation - Single Port]"
+  },
+  "stu-newtires": {
+    "documentPath": "Client:;Pa3;Trade_solver;STU_NEWTIRES",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Pre & Post Trade - Equity [Client:/pa3/trade_solver/STU_NEWTIRES]"
+  },
+  "ecs-revealed": {
+    "documentPath": "Client:;Pa3;Trade_solver;ECS_Revealed",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:/pa3/trade_solver/ECS_Revealed]"
+  },
+  "stu-general": {
+    "documentPath": "Client:;Pa3;Trade_solver;STU_General",
+    "browserTitle": "Portfolio Analysis 3.0 - Overview Reports | Pre & Post Trade [Client:/pa3/trade_solver/STU_General]"
+  },
+  "weight-multi-portfolios": {
+    "documentPath": "Client:;Pa3;Trade_solver;Weight_Multi_Portfolios",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:/pa3/trade_solver/Weight_Multi_Portfolios]"
+  },
+  "stu-zero-pricing": {
+    "documentPath": "Client:/Pa3;Trade_solver;STU_Zero_Pricing",
+    "browserTitle": "Portfolio Analysis 3.0 - Fundamental Risk | Composition [Client:/pa3/trade_solver/STU_Zero_Pricing]"
+  },
+  "stu-partial-duration": {
+    "documentPath": "Client:/Pa3;Trade_solver;STU_Partial_Duration",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Sector Weights [Client:/pa3/trade_solver/STU_Partial_Duration]"
+  },
+  "adv-pricing": {
+    "documentPath": "Client:/Pa3/Accounts/ADV_PRICING",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:/pa3/accounts/ADV_PRICING]"
+  },
+  "mslport-anlt-src-iss": {
+    "documentPath": "Client:;Pa3;Fixed_income;MSLPORT_ANLT_SRC_ISS",
+    "browserTitle": "Portfolio Analysis 3.0 - Daily Reports | Ratings Distribution [Client:/pa3/fixed_income/MSLPORT_ANLT_SRC_ISS]"
+  },
+  "ri-doc-opt": {
+    "documentPath": "Client:;Pa3;Risk;RI_DOC_OPT",
+    "browserTitle": "Portfolio Analysis 3.0 - Risk | Risk [Client:/pa3/risk/RI_DOC_OPT]"
+  },
+  "ri-doc-opt-append": {
+    "documentPath": "Client:;Pa3;Risk;RI_DOC_OPT_APPEND",
+    "browserTitle": "Portfolio Analysis 3.0 - Risk | Weights [Client:/pa3/risk/RI_DOC_OPT_APPEND]"
+  },
+  "multi-horizon-blasting": {
+    "documentPath": "Client:;Pa3;Dates;Multi Horizon - blasting",
+    "browserTitle": "Portfolio Analysis 3.0 - Performance | Contribution Detail [Client:/pa3/dates/Multi Horizon - blasting]"
+  },
+  "chart-factor-returns": {
+    "documentPath": "Client:;Pa3;Charts;chart_factor_returns",
+    "browserTitle": "Portfolio Analysis 3.0 - Untitled | Factor Returns Chart [Client:/pa3/charts/chart_factor_returns]"
+  },
+  "ri-uneven-fg": {
+    "documentPath": "Client:;Pa3;Risk;RI_UNEVEN_FG",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Exposures [Client:/pa3/risk/RI_UNEVEN_FG]"
+  },
+  "audit-dupe-column": {
+    "documentPath": "Client:;Pa3;Audit;audit_dupe_column",
+    "browserTitle": "Portfolio Analysis 3.0 - Weights | Exposures [Client:/pa3/audit/audit_dupe_column]"
+  },
+  "audit-tile-resize": {
+    "documentPath": "Client:/Pa3/Audit/audit_tile_resize",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:/pa3/audit/audit_tile_resize]"
+  },
+  "divided-test": {
+    "documentPath": "Client:/Pa3/Grouping/Divided_test",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:/pa3/grouping/Divided_test]"
+  },
+  "audit-grp-security": {
+    "documentPath": "Client:/Pa3;Audit;Audit_Grp_Security",
+    "browserTitle": "Portfolio Analysis 3.0 - Attribution | 2 Factor Brinson Attribution [Client:/pa3/audit/Audit_Grp_Security]"
+  },
+  "ri-fg-save-expd-coll": {
+    "documentPath": "Client:/Pa3/Risk/RI_FG_SAVE_EXPD_COLL",
+    "browserTitle": "Portfolio Analysis 3.0 - Risk | ExpandCollapse [Client:/pa3/risk/RI_FG_SAVE_EXPD_COLL]"
+  },
+  "ri-saving-crpt": {
+    "documentPath": "Client:;Pa3;Risk;Create_Multi_Layer_Factor_Grouping",
+    "browserTitle": "Portfolio Analysis 3.0 - Risk | Risk Summary [Client:/pa3/risk/Create_Multi_Layer_Factor_Grouping]"
+  },
+  "single-vs-multiport": {
+    "documentPath": "Client:/Pa3/General/single_vs_multiport",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:/pa3/general/single_vs_multiport]"
+  },
+  "acct-pa-plm": {
+    "documentPath": "Client:;Pa3;Accounts;ACCT_PA_PLM",
+    "browserTitle": "Portfolio Analysis 3.0 - Weights | Exposures [Client:/pa3/accounts/ACCT_PA_PLM]"
+  },
+  "columns-date-sort": {
+    "documentPath": "Client:;Pa3;Columns;sort date column",
+    "browserTitle": "Portfolio Analysis 3.0 - Fundamental Risk | Not transposed [Client:/pa3/columns/sort date column]"
+  },
+  "georev-eq-wghted": {
+    "documentPath": "Client:;Pa3;Georev;GeoRev_EQ_WGHTED",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | GeoRev [Client:/pa3/georev/GeoRev_EQ_WGHTED]"
+  },
+  "transpose-multiport": {
+    "documentPath": "Client:;Pa3;Columns;CSTEIFEL_TRANSISSUEFULL_multiport",
+    "browserTitle": "Portfolio Analysis 3.0 - Performance | Characteristics - Summary [Client:/pa3/columns/CSTEIFEL_TRANSISSUEFULL_multiport]"
+  },
+  "grouping-help": {
+    "documentPath": "Client:;Pa3;Grouping;grouping-help",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:/pa3/grouping/grouping-help]"
+  },
+  "columns-help": {
+    "documentPath": "Client:;Pa3;Columns;columns-help",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:/pa3/columns/columns-help]"
+  },
+  "fi-acct-settings": {
+    "documentPath": "Client:;Pa3;Accounts;FI_Acct_settings",
+    "browserTitle": "Portfolio Analysis 3.0 - Weights | Exposures [Client:/pa3/accounts/FI_Acct_settings]"
+  },
+  "pa3-fi-spread-eff-carry-eff": {
+    "documentPath": "Client:;Pa3;Fixed_income;PA3_FI_SPREAD_EFF_CARRY_EFF",
+    "browserTitle": "Portfolio Analysis 3.0 - Detailed Reports | Attribution [Client:/pa3/fixed_income/PA3_FI_SPREAD_EFF_CARRY_EFF]"
+  },
+  "date-long-short-1M": {
+    "documentPath": "Client:;Pa3;Dates;DATE_LONG_SHORT_1M",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Contribution - Long/Short_1m [Client:/pa3/dates/DATE_LONG_SHORT_1M]"
+  },
+  "date-long-short-3M": {
+    "documentPath": "Client:;Pa3;Dates;DATE_LONG_SHORT_3M",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Contribution - Long/Short_Summary [Client:/pa3/dates/DATE_LONG_SHORT_3M]"
+  },
+  "multisort-fallback": {
+    "documentPath": "Client:;Pa3;Columns;multisort_fallback",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:/pa3/columns/multisort_fallback]"
+  },
+  "accounts-exclusions-test": {
+    "documentPath": "Client:;Pa3;Exclusions;accounts_exclusions_test",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:/pa3/exclusions/accounts_exclusions_test]"
+  },
+  "use-sources-component": {
+    "documentPath": "Client:;Pa3;Prices;use_sources_component",
+    "browserTitle": "Portfolio Analysis 3.0 - Weights | Exposures Overview [Client:/pa3/prices/use_sources_component]"
+  },
+  "backend-translations": {
+    "documentPath": "Client:;Pa3;Backend Translations",
+    "browserTitle": "Portfolio Analysis 3.0 - Weights | エクスポージャー [Client:/pa3/Backend Translations]"
+  },
+  "custom-rolling-period": {
+    "documentPath": "Client:/Pa3/Dates/Custom_Rolling_Period",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Contribution [Client:/pa3/dates/Custom_Rolling_Period]"
+  },
+  "exclusions-ui-risk-factors": {
+    "documentPath": "Client:/Pa3/Risk/Exclusions_UI_Risk_Factors",
+    "browserTitle": "Portfolio Analysis 3.0 - Weights | Exposures Overview [Client:/pa3/risk/Exclusions_UI_Risk_Factors]"
+  },
+  "nesting-deletereorder": {
+    "documentPath": "Client:;Pa3;Risk;NESTING-DELETEREORDER",
+    "browserTitle": "Portfolio Analysis 3.0 - Risk | Exposures [Client:/pa3/risk/NESTING-DELETEREORDER]"
+  },
+  "acct-overrides": {
+    "documentPath": "Client:;Pa3;Accounts;ACCT_OVERRIDES",
+    "browserTitle": "Portfolio Analysis 3.0 - Uncategorized | Weights [Client:/pa3/accounts/ACCT_OVERRIDES]"
+  },
+  "report-theme-carbon": {
+    "documentPath": "Client:report-theme-carbon",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:report-theme-carbon]"
+  },
+  "attrib-transpose-dates": {
+    "documentPath": "Client:/New_pa_test_suite/ATTRIB_TRANSPOSE_DATES",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:/new_pa_test_suite/ATTRIB_TRANSPOSE_DATES]"
+  },
+  "import-super-doc": {
+    "documentPath": "Super_client:Import_Super_Doc",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Super_client:Import_Super_Doc]"
+  },
+  "pv-fwd12": {
+    "documentPath": "Client:/Pa3/Universe/PV_FWD12",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Contribution [Client:/pa3/universe/PV_FWD12]"
+  },
+  "curr-fwd": {
+    "documentPath": "Personal:CURR_FWD",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Contribution [Personal:CURR_FWD]"
+  },
+  "cols-function": {
+    "documentPath": "Client:;Pa3;Columns;cols-function",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:/pa3/columns/cols-function]"
+  },
+  "risk-test-ca-search-order-change": {
+    "documentPath": "Client:/Pa3/Risk/Risk_Test_CA_Search_Order_Change",
+    "browserTitle": "Portfolio Analysis 3.0 - Weights | Weights [Client:/pa3/risk/Risk_Test_CA_Search_Order_Change]"
+  },
+  "fractile-test": {
+    "documentPath": "Client:/Pa3/Grouping/Fractile Test",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:/pa3/grouping/Fractile Test]"
+  },
+  "composite-asset-coverage": {
+    "documentPath": "Client:;Pa3;Risk;QA_MCVAR_COMPOSITE_ASSET_COVERAGE",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:/pa3/risk/QA_MCVAR_COMPOSITE_ASSET_COVERAGE]"
+  },
+  "pric-aft-convt": {
+    "documentPath": "Client:/Pa3/Prices/PRIC_AFT_CONVT",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Contribution [Client:/pa3/prices/PRIC_AFT_CONVT]"
+  },
+  "pricereport": {
+    "documentPath": "Personal:PRICEREPORT",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Contribution [Personal:PRICEREPORT]"
+  },
+  "lhp-cancel": {
+    "documentPath": "Client:/Pa3/General/LHP_CANCEL",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:/pa3/general/LHP_CANCEL]"
+  },
+  "exclusion-hi-low": {
+    "documentPath": "Client:/Pa3/Grouping/Exclusion_Hi_Low",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:/pa3/grouping/Exclusion_Hi_Low]"
+  },
+  "audit-cutoff-new": {
+    "documentPath": "Client:/Pa3/Audit/Audit Cutoff_New",
+    "browserTitle": "Portfolio Analysis 3.0 - Weights | Average Weights [Client:/pa3/audit/Audit Cutoff_New]"
+  },
+  "multi-horizon-dates_rpt_freq": {
+    "documentPath": "Client:;Pa3;Dates;Multi-Horizon Dates_Rpt_freq",
+    "browserTitle": "Portfolio Analysis 3.0 - Risk | Risk Summary [Client:/pa3/dates/Multi-Horizon Dates_Rpt_freq]"
+  },
+  "pa3-fi-anlts-ovrds-chart": {
+    "documentPath": "Client:/Pa3/Fixed_income/PA3_FI_ANLTS_OVRDS_CHART",
+    "browserTitle": "Portfolio Analysis 3.0 - Attribution | 3 Factor Brinson Atttribution [Client:/pa3/fixed_income/PA3_FI_ANLTS_OVRDS_CHART]"
+  },
+  "lot-level-test": {
+    "documentPath": "Client:/Pa3/Lot_detail/Lot_Level_test",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Lot Level [Client:/pa3/lot_detail/Lot_Level_test]"
+  },
+  "bh-bms": {
+    "documentPath": "Client:/Pa3/Accounts/bh_bms",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Contribution [Client:/pa3/accounts/bh_bms]"
+  },
+  "multiPort_highLow_endofPeriod": {
+    "documentPath": "Client:/Pa3/MultiPort_HighLow_EndofPeriod",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Contribution [Client:/pa3/MultiPort_HighLow_EndofPeriod]"
+  },
+  "tbr-buy-and-hold-mode": {
+    "documentPath": "Client:;Pa3;General;TBR Buy & Hold Mode",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Contribution [Client:/pa3/general/TBR Buy & Hold Mode]"
+  },
+  "georev-groupings": {
+    "documentPath": "Client:/Pa3/Georev/GeoRev_Groupings",
+    "browserTitle": "Portfolio Analysis 3.0 - Overview Reports | Exposures Overview [Client:/pa3/georev/GeoRev_Groupings]"
+  },
+  "ca-order-1": {
+    "documentPath": "Client:;Pa3;Universe;CA_Order_1",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Sector Weights [Client:/pa3/universe/CA_Order_1]"
+  },
+  "ca-attribution": {
+    "documentPath": "Client:;Pa3;Universe;CA_Attribution",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:/pa3/universe/CA_Attribution]"
+  },
+  "multiple-ca-levels": {
+    "documentPath": "Client:;Pa3;Universe;Multiple_CA_Levels",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:/pa3/universe/Multiple_CA_Levels]"
+  },
+  "audit-asset-class-grouping": {
+    "documentPath": "Client:;Pa3;Audit;Audit_Asset_Class_grouping",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Contribution [Client:/pa3/audit/Audit_Asset_Class_grouping]"
+  },
+  "risk-model-exclusions": {
+    "documentPath": "Client:;Pa3;Risk;Risk_Model_Exclusions",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:/pa3/risk/Risk_Model_Exclusions]"
+  },
+  "cash-usd-mwr_-return": {
+    "documentPath": "Client:;Pa3;General;CASH_USD MWR_Return",
+    "browserTitle": "Portfolio Analysis 3.0 - Performance | Contribution Detail [Client:/pa3/general/CASH_USD MWR_Return]"
+  },
+  "previous-close-test": {
+    "documentPath": "Client:;Pa3;Dates;Previous_close_test",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Contribution [Client:/pa3/dates/Previous_close_test]"
+  },
+  "audit-multi-port-oa": {
+    "documentPath": "Client:;Pa3;Audit;AUDIT_MULTI_PORT_OA",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:/pa3/audit/AUDIT_MULTI_PORT_OA]"
+  },
+  "georev-columns": {
+    "documentPath": "Client:;Pa3;Georev;GeoRev_Columns",
+    "browserTitle": "Portfolio Analysis 3.0 - Detailed Reports | Contribution [Client:/pa3/georev/GeoRev_Columns]"
+  },
+  "ref-grpg-save": {
+    "documentPath": "Client:/Pa3/Grouping/ref-grpg-save",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:/pa3/grouping/ref-grpg-save]"
+  },
+  "override-account-default-risk-setting": {
+    "documentPath": "Client:/Pa3/Risk/Override_Account_Default_Risk_Setting",
+    "browserTitle": "Portfolio Analysis 3.0 - Risk | Risk [Client:/pa3/risk/Override_Account_Default_Risk_Setting]"
+  },
+  "stress-test-sample-frequency": {
+    "documentPath": "Client:/Pa3/Risk/stress_test_sample_frequency",
+    "browserTitle": "Portfolio Analysis 3.0 - Weights | Exposure Report [Client:/pa3/risk/stress_test_sample_frequency]"
+  },
+  "mc-var-columns": {
+    "documentPath": "Client:/Pa3/Risk/mc_var_columns",
+    "browserTitle": "Portfolio Analysis 3.0 - Weights | Exposure Report [Client:/pa3/risk/mc_var_columns]"
+  },
+  "bench-fixed-average-weight": {
+    "documentPath": "Client:;Pa3;Bench_fixed_average_weight",
+    "browserTitle": "Portfolio Analysis 3.0 - Performance | Contribution Detail [Client:/pa3/Bench_fixed_average_weight]"
+  },
+  "composite-stress-test": {
+    "documentPath": "Client:/Pa3/Risk/COMPOSITE_STRESS_TEST",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:/pa3/risk/COMPOSITE_STRESS_TEST]"
+  },
+  "exclusions-custom-fractile": {
+    "documentPath": "Client:;Pa3;Exclusions;Exclusions_Custom_Fractile",
+    "browserTitle": "Portfolio Analysis 3.0 - Attribution | Attribution [Client:/pa3/exclusions/Exclusions_Custom_Fractile]"
+  },
+  "fixed-columns-charc-and-Perf-reports": {
+    "documentPath": "Client:;Pa3;Columns;Fixed Columns-charc and Perf reports",
+    "browserTitle": "Portfolio Analysis 3.0 - have FIX col | Exposures [Client:/pa3/columns/Fixed Columns-charc and Perf reports]"
+  },
+  "rbics-focus-groupings": {
+  "documentPath": "Client:;Pa3;Grouping;RBICS_Focus_groupings",
+  "browserTitle": "Portfolio Analysis 3.0 - Weights | Exposures [Client:/pa3/grouping/RBICS_Focus_groupings]"
+  },
+  "report-footers": {
+    "documentPath": "Client:;Pa3;General;REPORT FOOTERS",
+    "browserTitle": "Portfolio Analysis 3.0 - Uncategorized | Weights [Client:/pa3/general/REPORT FOOTERS]"
+  },
+  "risk-footers": {
+    "documentPath": "Client:/Pa3/Risk/RISK-FOOTERS",
+    "browserTitle": "Portfolio Analysis 3.0 - Weights | Exposures Overview [Client:/pa3/risk/RISK-FOOTERS]"
+  },
+  "no-write-access": {
+    "documentPath": "Client:/Pa3/no_write_access",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:/pa3/no_write_access]"
+  },
+  "warrant-test": {
+    "documentPath": "Client:;Pa3;General;Warrant_Test",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Warrant Test [Client:/pa3/general/Warrant_Test]"
+  },
+  "fi-expandable-columns-charting": {
+    "documentPath": "Client:;Pa3;Charts;FI Expandable Columns Charting",
+    "browserTitle": "Portfolio Analysis 3.0 - Weights | Partial Durations [Client:/pa3/charts/FI Expandable Columns Charting]"
+  },
+  "localization-japanese": {
+    "documentPath": "Client:/Pa3/Localization/Localization_Japanese",
+    "browserTitle": "Portfolio Analysis 3.0 - 特性値 | Japanese_Test [Client:/pa3/localization/Localization_Japanese]"
+  },
+  "grouping-overrides": {
+    "documentPath": "Client:;Pa3;Grouping;GROUPING-OVERRIDES",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:/pa3/grouping/GROUPING-OVERRIDES]"
+  },
+  "download-override-list": {
+    "documentPath": "Client:;Pa3;Grouping;Download_override_List",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:/pa3/grouping/Download_override_List]"
+  },
+  "matrix-tile1": {
+    "documentPath": "Client:/Pa3/Risk/Matrix_Tile1",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Matrix [Client:/pa3/risk/Matrix_Tile1]"
+  },
+  "cf-up-down": {
+    "documentPath": "Client:/PA3/Formatting/CF-UP-DOWN",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Sector Weights [Client:/PA3/Formatting/CF-UP-DOWN]"
+  },
+  "audit-multi-port": {
+    "documentPath": "Client:;Pa3;Audit;AUDIT_MULTI_PORT",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:/pa3/audit/AUDIT_MULTI_PORT]"
+  },
+  "3-tile-chart": {
+    "documentPath": "Client:3-tile-chart",
+    "browserTitle": "Portfolio Analysis 3.0 - Reports | Weights [Client:3-tile-chart]"
+  },
+  "fixed-columns-w-updated-merging-logic-(stats)" : {
+    "documentPath": "Client:/Pa3/Fixed Columns w Updated Merging Logic (Stats)",
+    "browserTitle": "Portfolio Analysis 3.0 - Weights | Exposures Overview [Client:/pa3/Fixed Columns w Updated Merging Logic (Stats)]"
+  }
+}

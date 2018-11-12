@@ -1,0 +1,27 @@
+{
+  "opts": {
+    "destination": "./docs/",
+    "recurse": true
+  },
+  "source": {
+    "include": [ "README.md", "./src" ]
+  },
+  "tags": {
+    "allowUnknownTags": false
+  },
+  "templates": {
+    "cleverLinks": true,
+    "collapseSymbols": false,
+    "copyright": "FactSet Research Systems Inc.",
+    "footer": "",
+    "highlightTutorialCode": true,
+    "inverseNav": false,
+    "linenums": true,
+    "navType": "vertical",
+    "outputSourceFiles": true,
+    "outputSourcePath": true,
+    "syntaxTheme": "dark",
+    "systemName": "qa-test-pa3",
+    "theme": "cosmo"
+  }
+}

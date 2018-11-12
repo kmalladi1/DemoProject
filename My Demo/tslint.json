@@ -1,0 +1,3 @@
+{
+  "extends": "@fds/lint-standards/tslint"
+}

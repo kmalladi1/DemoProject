@@ -1,0 +1,6 @@
+{
+  "plugins": [ "@fds/lint-standards/jscs" ],
+  "preset": "factset",
+  "validateIndentation": 2,
+  "requireCamelCaseOrUpperCaseIdentifiers": false
+}

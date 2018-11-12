@@ -1,0 +1,13 @@
+{
+  "@fds/generator-node-lib": {
+    "projectName": "qa-test-pa3",
+    "projectDescription": "Automation project for PA3.",
+    "githubGroup": "app-qa-automation",
+    "githubName": "schakinala",
+    "fullName": "Sudha Chakinala",
+    "authorEmail": "schakinala@factset.com",
+    "keywords": "protractor",
+    "cliTool": false,
+    "version": "6.11.2"
+  }
+}

@@ -1,0 +1,4 @@
+{
+  "staging": "https://pa.apps.factset.com/",
+  "production": "https://pa.apps.factset.com/"
+}
