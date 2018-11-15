@@ -1,0 +1,41 @@
+Jenkins:
+
+yarn --frozen-lockfile --ignore-engines
+yarn lerna run build
+cd ./packages/pa3-frontend-legacy-e2e/
+yarn protractor protractor.conf.js
+cd ../..
+
+
+Lima:
+
+	1) Change the name in normal chrome lima 
+	2) Change the name in header.js file in lima extension (temp folder-> extensions-> lima)
+	3) Goto extensions in chrome ->pack extensions-> give the path of lima chrome-> give the path of lime pem->pack extension-> pack anyway
+	4) Launch factset and give same name of prebuild
+C:\Temp\Extensions\lima-chrome
+
+
+Launch.Json:
+
+Launch.JSOn
+
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    
+    {
+      "name": "Launch",
+      "type": "node",
+      "request": "launch",
+      "program": "C:/node_modules/protractor/built/cli.js",
+      "stopOnEntry": false,
+    "args": ["test/e2e/conf.js"]
+    }
+  ]
+}
+
+
